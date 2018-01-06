@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 Creating a new branch is dev test manager.
 Now,I have a bug need repair,But myWork have some modify and not finshed.
 so,How I can do?
+Now,I have modify!
 
